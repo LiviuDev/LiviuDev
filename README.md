@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LiviuDev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning everything
+- 💻 I’m a Full-Stack Developer
+- 😋 I love to play
+- 📋 Please, if you download any of my projects credit me if you post them.
 - 💞️ I’m looking to collaborate on websites, apps & games
-- 📫 How to reach me: liviudevs@gmail.com
-
+- 📧 How to reach me: liviudevs@gmail.com
+- 📫 YouTube: https://www.youtube.com/channel/UCA3i_f72oLxVNg8FIIpz0og
