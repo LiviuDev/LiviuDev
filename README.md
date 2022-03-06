@@ -3,5 +3,5 @@
 - 😋 I love to play
 - 📋 Please, if you download any of my projects credit me if you post them.
 - 💞️ I’m looking to collaborate on websites, apps & games
-- 📧 How to reach me: liviudevs@gmail.com
+- 📧 How to reach me: contact@liviudev.com
 - 📫 YouTube: https://www.youtube.com/channel/UCA3i_f72oLxVNg8FIIpz0og
