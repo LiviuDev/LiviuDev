@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LiviuDev
-- 💻 I’m a Full-Stack Developer
+- 👋 Hi, I’m Liviu
 - 😋 I love to play
 - 📋 Please, if you download any of my projects credit me if you post them.
 - 💞️ I’m looking to collaborate on websites, apps & games
